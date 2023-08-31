@@ -7,8 +7,23 @@
   background-color: #fafafa;
   padding: 15px 0px;
   font-size: 16px;
+  margin-bottom: 10px;
 }
 
 #friends-display-link i {
   color: rgba(0, 0, 0, 0.3);
+}
+
+.friends-screen__channel {
+  position: relative;
+  top: 130px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.friends-screen__channel-header {
+  color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  align-items: center;
 }
