@@ -18,7 +18,7 @@
   position: relative;
   top: 130px;
   padding-top: 10px;
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: var(--main-border);
 }
 .friends-screen__channel-header {
   color: rgba(0, 0, 0, 0.5);
