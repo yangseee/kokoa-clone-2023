@@ -28,3 +28,23 @@
 .status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
+
+/*
+기어에 dot 만들기 숙제 ㅠ...
+.status-dot {
+  background-color: tomato;
+  display: flex;
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  position: absolute;
+  left: 300px;
+  bottom: 16px;
+  justify-content: center;
+  align-items: center;
+}
+
+.screen-header__icons span i {
+  position: relative;
+}
+*/
