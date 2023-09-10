@@ -1,0 +1,45 @@
+.setting__setting{
+    padding: 20px 0px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.setting__setting i {
+    opacity: 0.8;
+    margin-right: 20px;
+    font-size: 22px;
+}
+.setting__setting:nth-child(3) .setting__setting-column:last-child{
+    opacity: 0.5;
+}
+
+.setting-list2{
+    margin-top: 30px;
+}
+
+.new{
+    display: flex;
+    background-color: tomato;
+    border-radius: 15px;
+    color: white;
+    font-size: 11px;
+    width: 20px;
+    height: 20px;
+    font-weight: 700;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    
+}
+
+.setting__setting-column{
+    display: flex;
+}
+
+
+.setting__setting:nth-child(6) .setting__setting-column:last-child{
+    opacity: 0.5;
+}
